@@ -1,0 +1,45 @@
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.main-card {
+  background-color: white;
+  border-radius: 6px;
+  width: 600px;
+  padding: 20px;
+}
+
+.main-container .main-card .add-task {
+  display: flex;
+  gap: 10px;
+  width: 100%;
+}
+
+.tasks-type-toggle-buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.tasks-type-toggle-buttons .right-button {
+  border-radius: 0 4px 4px 0 !important;
+}
+
+.tasks-type-toggle-buttons .center-button {
+  border-radius: 4px;
+  border-left: 1px solid rgba(0, 0, 0, 0.12) !important;
+}
+
+.tasks-type-toggle-buttons .left-button {
+  border-left: 1px solid rgba(0, 0, 0, 0.12) !important;
+  border-radius: 4px 0 0 4px !important;
+}
+
+.tasks-container {
+  margin: 40px 0;
+  height: 400px;
+  overflow-y: scroll;
+}
