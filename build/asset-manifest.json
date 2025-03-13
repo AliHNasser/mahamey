@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.50a0dcfd.css",
+    "main.js": "/static/js/main.252fc51a.js",
+    "static/js/787.d652a50c.chunk.js": "/static/js/787.d652a50c.chunk.js",
+    "static/media/Cairo-Black.ttf": "/static/media/Cairo-Black.fb862267eaaa2efeae32.ttf",
+    "static/media/Cairo-ExtraBold.ttf": "/static/media/Cairo-ExtraBold.167cd1c39d5a428091f4.ttf",
+    "static/media/Cairo-SemiBold.ttf": "/static/media/Cairo-SemiBold.d8b78813fbd864ab04c4.ttf",
+    "static/media/Cairo-Bold.ttf": "/static/media/Cairo-Bold.d6131f35e4885ab019ba.ttf",
+    "static/media/Cairo-Medium.ttf": "/static/media/Cairo-Medium.58deadbf05ef43abbdbd.ttf",
+    "static/media/Cairo-Regular.ttf": "/static/media/Cairo-Regular.808e3fbf5cb27d719d6d.ttf",
+    "static/media/Cairo-Light.ttf": "/static/media/Cairo-Light.a4c0dad2ad5c861adff9.ttf",
+    "static/media/Cairo-ExtraLight.ttf": "/static/media/Cairo-ExtraLight.c1c9ac647cc0ba27e050.ttf",
+    "index.html": "/index.html",
+    "main.50a0dcfd.css.map": "/static/css/main.50a0dcfd.css.map",
+    "main.252fc51a.js.map": "/static/js/main.252fc51a.js.map",
+    "787.d652a50c.chunk.js.map": "/static/js/787.d652a50c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50a0dcfd.css",
+    "static/js/main.252fc51a.js"
+  ]
+}
